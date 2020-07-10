@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 Meu nome é Jilcimar Fernandes, sou Técnico em Informática e desenvolvedor Full-Stack.
  - :elephant: In love with PHP
  - :mortar_board: Estudante de TI (UFRN)
- - :mag_right: Atualmente me aventurando no React Native
+ - :mag_right: Atualmente estou me aventurando estudando React Native
  - :briefcase: Trabalhando atualmente na <a href="https://rits.dev/" target="_blank"> RITS :green_heart: </a>
 
 
