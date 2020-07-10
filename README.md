@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 <br/><br/>
 
-### Olá! 👋 Bem vindo ao meu perfil!
+### Olá, 👋 Bem vindo ao meu perfil!
 
 Meu nome é Jilcimar Fernandes, sou Técnico em Informática e desenvolvedor Full-Stack.
  - :elephant: In love with PHP
