@@ -37,4 +37,12 @@ Meu nome é Jilcimar Fernandes, sou Técnico em Informática e desenvolvedor Ful
  - :mag_right: Atualmente estou me aventurando estudando React Native
  - :briefcase: Trabalhando como desenvolvedor Full-Stack na <a href="https://rits.dev/" target="_blank"> RITS :green_heart: </a>
 
+<p align="center"> 
+  Visitas no perfil<br>
+  
+![Visitor Count](https://profile-counter.glitch.me/jilcimar/count.svg)
+
+</p>
+
+
 
