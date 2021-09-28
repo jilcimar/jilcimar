@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a style="margin-right: 5px;" href="https://twitter.com/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Twitter.svg" />
 </a>
-<a style="margin-right: 5px;" href="https://www.instagram.com/jilcimarfernandes/">
+<a style="margin-right: 5px;" href="https://www.instagram.com/jilcimaar/">
     <img align="left" alt="Jilcimar Fernandes | Instagram" width="24px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Instagram.svg"/>
 </a>
 <a style="margin-right: 5px;" href="mailto:jilcimar.fernandes0267@gmail.com">
