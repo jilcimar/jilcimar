@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Olá, 👋 Bem vindo ao meu perfil!
 
-Meu nome é Jilcimar Fernandes, sou Técnico em Informática e desenvolvedor Full-Stack.
+Meu nome é Jilcimar Fernandes, sou desenvolvedor PHP.
  - :elephant: In love with PHP
  - :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas
  - :mag_right: Atualmente estou me aventurando estudando React Native nas horas livres
