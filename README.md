@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 Meu nome é Jilcimar Fernandes, sou desenvolvedor PHP.
  - :elephant: In love with PHP
  - :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas
- - :mag_right: Atualmente estou me aventurando estudando React Native nas horas livres
  - :briefcase: Trabalhando como desenvolvedor PHP na <a href="https://www.ticto.com.br/" target="_blank"> Ticto :purple_heart: </a>
 
 <p align="center"> 
