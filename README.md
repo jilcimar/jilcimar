@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://in.linkedin.com/in/jilcimar" style="margin-right: 5px;">
     <img align="left" alt="Jilcimar | Linkedin" width="24px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" />
 </a> 
-<a style="margin-right: 5px;" href="https://twitter.com/TheDudeThatCode">
+<a style="margin-right: 5px;" href="https://twitter.com/jilcimaar">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Twitter.svg" />
 </a>
 <a style="margin-right: 5px;" href="https://www.instagram.com/jilcimaar/">
