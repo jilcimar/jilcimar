@@ -47,7 +47,7 @@ Eu sou 🖥 desenvolvedor backend 🐘 PHP.
 
 #### Python
 ---
-- [data-science][data-science]: Repositório para estudo dos conceitos básicos e fundamentos da linguagem de programação Python voltados para análise de dados, aplicando em projetos de Data Science e processamento de imagem.
+- [data-science][data-science]: Repositório para estudo dos conceitos básicos e fundamentos da linguagem de programação Python voltados para análise de dados, aplicando em projetos de Data Science.
 
 ### 📕 Últimos artigos publicados dev.to
 <!-- BLOG-POST-LIST:START -->
