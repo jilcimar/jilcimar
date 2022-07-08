@@ -1,7 +1,6 @@
 ## Olá, eu sou (Jil)cimar 👋
 Eu sou 🖥 desenvolvedor backend 🐘 PHP.
 
-- 🌱 Atualmente estou estudando tecnologias relacionadas a microsserviços. Kafka, Mensageria, Eventos.
 - 💻 Trabalhando como Desenvolvedor Sênior na Ticto Tecnologia.
 - 🎓 Graduando do curso de Análise e Desenvolvimento de Sistemas.
 
