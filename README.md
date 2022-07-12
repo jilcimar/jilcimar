@@ -1,9 +1,6 @@
 ## Olá, eu sou (Jil)cimar 👋
 Eu sou 🖥 desenvolvedor backend 🐘 PHP.
 
-- 💻 Trabalhando como Desenvolvedor Sênior na Ticto Tecnologia.
-- 🎓 Graduando do curso de Análise e Desenvolvimento de Sistemas.
-
 <!--<small>See my [online resume][website].</small> -->
 
 ### Onde você pode me encontrar:
