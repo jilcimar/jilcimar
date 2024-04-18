@@ -11,6 +11,7 @@ Eu sou 🖥 desenvolvedor backend 🐘 PHP.
 ### Tecnologias
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
+![GO](https://img.shields.io/static/v1?style=for-the-badge&message=GO&color=007d9c&logo=GO&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
@@ -27,7 +28,6 @@ Eu sou 🖥 desenvolvedor backend 🐘 PHP.
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
-![GitKraken](https://img.shields.io/static/v1?style=for-the-badge&message=GitKraken&color=179287&logo=GitKraken&logoColor=FFFFFF&label=)
 ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
