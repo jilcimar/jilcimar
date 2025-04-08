@@ -36,35 +36,6 @@
 
 ---
 
-### 💻 Alguns projetos que podem lhe interessar
-
-#### Laravel
-- [football-schedule][football-schedule]: Bot para Telegram que envia as informações dos jogos do dia. 
-- [revisionable-laravel][revisionable-laravel]: Teste do plugin para salvar o histórico de modificação do model.
-
-#### Python
----
-- [data-science][data-science]: Repositório para estudo dos conceitos básicos e fundamentos da linguagem de programação Python voltados para análise de dados, aplicando em projetos de Data Science.
-
-### 📕 Últimos artigos publicados dev.to
-<!-- BLOG-POST-LIST:START -->
-- [Calcular Frete dos Correios usando PHP 8.1](https://dev.to/jilcimar/calcular-frete-dos-correios-usando-php-81-39f)
-- [[TIP] - Laravel API Response Helpers](https://dev.to/jilcimar/tip-laravel-api-response-helpers-b05)
-- [O que é View Composer?](https://dev.to/jilcimar/o-que-e-view-composer-n10)
-- [GIT-FLOW: UMA ESTRATÉGIA PARA ADAPTAR DE ACORDO COM O PROCESSO DO SEU TIME](https://dev.to/jilcimar/git-flow-uma-estrategia-de-sucesso-para-adaptar-ao-processo-do-seu-time-1bah)
-- [[Tips & Tricks] Laravel Clean Code](https://dev.to/jilcimar/tips-tricks-laravel-clean-code-1mc4)
-- [Criando um servidor de homologação para aplicações Laravel usando o Heroku](https://dev.to/jilcimar/criando-um-servidor-de-homologacao-para-aplicacoes-laravel-usando-o-heroku-1cd0)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ![Jilcimar Github Stats](https://github-readme-stats.vercel.app/api?username=jilcimar&show_icons=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jilcimar)
-
-<!-- Laravel -->
-[football-schedule]: https://github.com/jilcimar/football-schedule
-[revisionable-laravel]: https://github.com/jilcimar/revisionable-laravel
-
-<!-- Python -->
-[data-science]: https://github.com/jilcimar/data-science
